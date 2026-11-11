@@ -45,9 +45,9 @@ User program
 
 **C API**: C functions that prepare the arguments and make the system call.
 
-**ABI**: the system call itself
+**ABI**: The system call itself.
 
-**Kernel**: the kernel code that does the work: trap handler, scheduler, memory allocator, threads and semaphores. It also handles the timer and console interrupts that come from the hardware.
+**Kernel**: The kernel code that does the work: trap handler, scheduler, memory allocator, threads and semaphores. It also handles the timer and console interrupts that come from the hardware.
 
 ## Implementation
 
